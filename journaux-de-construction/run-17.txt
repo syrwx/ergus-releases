@@ -1,0 +1,284 @@
+run 17 | commit 11e7fa8dbfea137ef39c589f15e8289dcac787df | refs/tags/v0.1.5
+
+===== contenu de release\\ =====
+1	D:\a\ergus\ergus\release\win-unpacked
+7412	D:\a\ergus\ergus\release\builder-debug.yml
+151461672	D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.exe
+159762	D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.exe.blockmap
+1	D:\a\ergus\ergus\release\win-unpacked\locales
+1	D:\a\ergus\ergus\release\win-unpacked\resources
+114781	D:\a\ergus\ergus\release\win-unpacked\chrome_100_percent.pak
+186658	D:\a\ergus\ergus\release\win-unpacked\chrome_200_percent.pak
+4741480	D:\a\ergus\ergus\release\win-unpacked\d3dcompiler_47.dll
+26070528	D:\a\ergus\ergus\release\win-unpacked\dxcompiler.dll
+1503600	D:\a\ergus\ergus\release\win-unpacked\dxil.dll
+210903040	D:\a\ergus\ergus\release\win-unpacked\Ergus.exe
+3058176	D:\a\ergus\ergus\release\win-unpacked\ffmpeg.dll
+10467680	D:\a\ergus\ergus\release\win-unpacked\icudtl.dat
+504320	D:\a\ergus\ergus\release\win-unpacked\libEGL.dll
+8400384	D:\a\ergus\ergus\release\win-unpacked\libGLESv2.dll
+1096	D:\a\ergus\ergus\release\win-unpacked\LICENSE.electron.txt
+15104326	D:\a\ergus\ergus\release\win-unpacked\LICENSES.chromium.html
+6302010	D:\a\ergus\ergus\release\win-unpacked\resources.pak
+403834	D:\a\ergus\ergus\release\win-unpacked\snapshot_blob.bin
+776865	D:\a\ergus\ergus\release\win-unpacked\v8_context_snapshot.bin
+106	D:\a\ergus\ergus\release\win-unpacked\vk_swiftshader_icd.json
+5640192	D:\a\ergus\ergus\release\win-unpacked\vk_swiftshader.dll
+944128	D:\a\ergus\ergus\release\win-unpacked\vulkan-1.dll
+581663	D:\a\ergus\ergus\release\win-unpacked\locales\af.pak
+943410	D:\a\ergus\ergus\release\win-unpacked\locales\am.pak
+1041372	D:\a\ergus\ergus\release\win-unpacked\locales\ar.pak
+1076101	D:\a\ergus\ergus\release\win-unpacked\locales\bg.pak
+1388484	D:\a\ergus\ergus\release\win-unpacked\locales\bn.pak
+655708	D:\a\ergus\ergus\release\win-unpacked\locales\ca.pak
+679874	D:\a\ergus\ergus\release\win-unpacked\locales\cs.pak
+612491	D:\a\ergus\ergus\release\win-unpacked\locales\da.pak
+656084	D:\a\ergus\ergus\release\win-unpacked\locales\de.pak
+1183448	D:\a\ergus\ergus\release\win-unpacked\locales\el.pak
+530862	D:\a\ergus\ergus\release\win-unpacked\locales\en-GB.pak
+537011	D:\a\ergus\ergus\release\win-unpacked\locales\en-US.pak
+646210	D:\a\ergus\ergus\release\win-unpacked\locales\es-419.pak
+643821	D:\a\ergus\ergus\release\win-unpacked\locales\es.pak
+587472	D:\a\ergus\ergus\release\win-unpacked\locales\et.pak
+969514	D:\a\ergus\ergus\release\win-unpacked\locales\fa.pak
+598290	D:\a\ergus\ergus\release\win-unpacked\locales\fi.pak
+678665	D:\a\ergus\ergus\release\win-unpacked\locales\fil.pak
+698723	D:\a\ergus\ergus\release\win-unpacked\locales\fr.pak
+1370481	D:\a\ergus\ergus\release\win-unpacked\locales\gu.pak
+849481	D:\a\ergus\ergus\release\win-unpacked\locales\he.pak
+1449270	D:\a\ergus\ergus\release\win-unpacked\locales\hi.pak
+654776	D:\a\ergus\ergus\release\win-unpacked\locales\hr.pak
+701137	D:\a\ergus\ergus\release\win-unpacked\locales\hu.pak
+579373	D:\a\ergus\ergus\release\win-unpacked\locales\id.pak
+634822	D:\a\ergus\ergus\release\win-unpacked\locales\it.pak
+772304	D:\a\ergus\ergus\release\win-unpacked\locales\ja.pak
+1569400	D:\a\ergus\ergus\release\win-unpacked\locales\kn.pak
+655475	D:\a\ergus\ergus\release\win-unpacked\locales\ko.pak
+711093	D:\a\ergus\ergus\release\win-unpacked\locales\lt.pak
+708775	D:\a\ergus\ergus\release\win-unpacked\locales\lv.pak
+1620930	D:\a\ergus\ergus\release\win-unpacked\locales\ml.pak
+1341039	D:\a\ergus\ergus\release\win-unpacked\locales\mr.pak
+609653	D:\a\ergus\ergus\release\win-unpacked\locales\ms.pak
+586053	D:\a\ergus\ergus\release\win-unpacked\locales\nb.pak
+609214	D:\a\ergus\ergus\release\win-unpacked\locales\nl.pak
+679479	D:\a\ergus\ergus\release\win-unpacked\locales\pl.pak
+636891	D:\a\ergus\ergus\release\win-unpacked\locales\pt-BR.pak
+640581	D:\a\ergus\ergus\release\win-unpacked\locales\pt-PT.pak
+664148	D:\a\ergus\ergus\release\win-unpacked\locales\ro.pak
+1099834	D:\a\ergus\ergus\release\win-unpacked\locales\ru.pak
+691237	D:\a\ergus\ergus\release\win-unpacked\locales\sk.pak
+662044	D:\a\ergus\ergus\release\win-unpacked\locales\sl.pak
+1017187	D:\a\ergus\ergus\release\win-unpacked\locales\sr.pak
+591731	D:\a\ergus\ergus\release\win-unpacked\locales\sv.pak
+625420	D:\a\ergus\ergus\release\win-unpacked\locales\sw.pak
+1611813	D:\a\ergus\ergus\release\win-unpacked\locales\ta.pak
+1491533	D:\a\ergus\ergus\release\win-unpacked\locales\te.pak
+1252355	D:\a\ergus\ergus\release\win-unpacked\locales\th.pak
+636722	D:\a\ergus\ergus\release\win-unpacked\locales\tr.pak
+1105976	D:\a\ergus\ergus\release\win-unpacked\locales\uk.pak
+956225	D:\a\ergus\ergus\release\win-unpacked\locales\ur.pak
+755390	D:\a\ergus\ergus\release\win-unpacked\locales\vi.pak
+541912	D:\a\ergus\ergus\release\win-unpacked\locales\zh-CN.pak
+535949	D:\a\ergus\ergus\release\win-unpacked\locales\zh-TW.pak
+1	D:\a\ergus\ergus\release\win-unpacked\resources\engine
+117	D:\a\ergus\ergus\release\win-unpacked\resources\app-update.yml
+2347766	D:\a\ergus\ergus\release\win-unpacked\resources\app.asar
+107520	D:\a\ergus\ergus\release\win-unpacked\resources\elevate.exe
+
+===== pyinstaller.log =====
+276 INFO: PyInstaller: 6.22.2, contrib hooks: 2026.7
+276 INFO: Python: 3.11.9
+288 INFO: Platform: Windows-10-10.0.26100-SP0
+288 INFO: Python environment: C:\hostedtoolcache\windows\Python\3.11.9\x64
+1461 INFO: Module search paths (PYTHONPATH):
+['D:\\a\\ergus\\ergus\\ai-engine',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Scripts\\pyinstaller.exe',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\python311.zip',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\DLLs',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64',
+ 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages',
+ 'D:\\a\\ergus\\ergus\\ai-engine']
+1865 INFO: checking Analysis
+1865 INFO: Building Analysis because Analysis-00.toc is non existent
+1867 INFO: Looking for Python shared library...
+1867 INFO: Using Python shared library: C:\hostedtoolcache\windows\Python\3.11.9\x64\python311.dll
+1867 INFO: Running Analysis Analysis-00.toc
+1867 INFO: Target bytecode optimization level: 0
+1867 INFO: Initializing module dependency graph...
+1871 INFO: Initializing module graph hook caches...
+1903 INFO: Analyzing modules for base_library.zip ...
+2895 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+3398 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+4935 INFO: Processing standard module hook 'hook-math.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+5071 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+6793 INFO: Caching module dependency graph...
+6863 INFO: Analyzing D:\a\ergus\ergus\ai-engine\lancer_moteur.py
+7127 INFO: Processing standard module hook 'hook-anyio.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+7519 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+7519 INFO: SetuptoolsInfo: initializing cached setuptools info...
+8967 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+9186 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+9508 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+10455 INFO: Processing standard module hook 'hook-pydantic.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+10882 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+11186 INFO: Processing standard module hook 'hook-zoneinfo.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+11268 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+12927 INFO: Processing standard module hook 'hook-cv2.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+13327 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+13796 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+14611 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+16587 INFO: Processing standard module hook 'hook-onnxruntime.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16664 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+16708 INFO: Processing standard module hook 'hook-sqlite3.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks'
+17091 INFO: Processing standard module hook 'hook-uvicorn.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+18104 INFO: Processing standard module hook 'hook-websockets.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+18664 INFO: Analyzing hidden import 'uvicorn.__main__'
+18664 INFO: Analyzing hidden import 'uvicorn.lifespan'
+18666 INFO: Analyzing hidden import 'uvicorn.lifespan.off'
+18668 INFO: Analyzing hidden import 'uvicorn.lifespan.on'
+18674 INFO: Analyzing hidden import 'uvicorn.loops'
+18676 INFO: Analyzing hidden import 'uvicorn.loops.asyncio'
+18676 INFO: Analyzing hidden import 'uvicorn.loops.auto'
+18680 INFO: Analyzing hidden import 'uvicorn.protocols.http.auto'
+18682 INFO: Analyzing hidden import 'uvicorn.protocols.websockets.auto'
+18684 INFO: Analyzing hidden import 'uvicorn.workers'
+18690 INFO: Processing module hooks (post-graph stage)...
+18982 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+19223 WARNING: Hidden import "tzdata" not found!
+19286 INFO: Performing binary vs. data reclassification (9 entries)
+19296 INFO: Looking for ctypes DLLs
+19398 INFO: Analyzing run-time hooks ...
+19398 INFO: Including custom run-time hook 'D:\\a\\ergus\\ergus\\ai-engine\\pyi_rth_stdio.py'
+19406 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+19410 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+19414 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+19438 INFO: Creating base_library.zip...
+19475 INFO: Looking for dynamic libraries
+20377 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\numpy.libs', 'C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\cv2\\../../x64/vc17/bin']
+20377 INFO: Extra DLL search directories (PATH): ['C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x64\\Lib\\site-packages\\cv2\\../../x64/vc17/bin']
+21666 INFO: Warnings written to D:\a\ergus\ergus\ai-engine\build\ergus-engine\warn-ergus-engine.txt
+21762 INFO: Graph cross-reference written to D:\a\ergus\ergus\ai-engine\build\ergus-engine\xref-ergus-engine.html
+21810 INFO: checking PYZ
+21812 INFO: Building PYZ because PYZ-00.toc is non existent
+21812 INFO: Building PYZ (ZlibArchive) D:\a\ergus\ergus\ai-engine\build\ergus-engine\PYZ-00.pyz
+22600 INFO: Building PYZ (ZlibArchive) D:\a\ergus\ergus\ai-engine\build\ergus-engine\PYZ-00.pyz completed successfully.
+22628 INFO: checking PKG
+22628 INFO: Building PKG because PKG-00.toc is non existent
+22628 INFO: Building PKG (CArchive) ergus-engine.pkg
+22646 INFO: Building PKG (CArchive) ergus-engine.pkg completed successfully.
+22648 INFO: Bootloader C:\hostedtoolcache\windows\Python\3.11.9\x64\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+22648 INFO: checking EXE
+22648 INFO: Building EXE because EXE-00.toc is non existent
+22648 INFO: Building EXE from EXE-00.toc
+22648 INFO: Copying bootloader EXE to D:\a\ergus\ergus\ai-engine\build\ergus-engine\ergus-engine.exe
+22651 INFO: Copying icon to EXE
+22655 INFO: Copying 0 resources to EXE
+22655 INFO: Embedding manifest in EXE
+22657 INFO: Appending PKG archive to EXE
+22662 INFO: Fixing EXE headers
+22743 INFO: Building EXE from EXE-00.toc completed successfully.
+22747 INFO: checking COLLECT
+22747 INFO: Building COLLECT because COLLECT-00.toc is non existent
+22747 INFO: Building COLLECT COLLECT-00.toc
+22995 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+22999 INFO: Build complete! The results are available in: D:\a\ergus\ergus\ai-engine\dist
+
+===== electron-builder.log =====
+  • electron-builder  version=26.15.3 os=10.0.26100
+  • loaded configuration  file=D:\a\ergus\ergus\desktop\electron-builder.js
+  • packageManager not detected by file, falling back to environment detection  resolvedPackageManager=npm detected=D:\a\ergus\ergus\desktop
+  • detected workspace root for project using lock file  pm=npm config=undefined resolved=D:\a\ergus\ergus projectDir=D:\a\ergus\ergus\desktop
+  • executing @electron/rebuild  electronVersion=39.8.10 arch=x64 buildFromSource=false workspaceRoot=D:\a\ergus\ergus projectDir=./ appDir=./
+  • installing native dependencies  arch=x64
+  • completed installing native dependencies
+  • packaging       platform=win32 arch=x64 electron=39.8.10 appOutDir=D:\a\ergus\ergus\release\win-unpacked
+  • downloaded      label=electron progress=100%
+  • downloaded electron zip extracted successfully  output=D:\a\ergus\ergus\release\win-unpacked
+  • searching for node modules  pm=npm searchDir=D:\a\ergus\ergus\desktop
+  • updating asar integrity executable resource  executablePath=D:\a\ergus\ergus\release\win-unpacked\Ergus.exe
+  • signing with signtool.exe  path=D:\a\ergus\ergus\release\win-unpacked\resources\engine\ergus-engine.exe
+  • signing with signtool.exe  path=D:\a\ergus\ergus\release\win-unpacked\Ergus.exe
+  • building        target=nsis file=D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.exe archs=x64 oneClick=false perMachine=false
+  • downloaded      label=nsis-3.0.4.1.7z progress=100%
+  • downloaded      label=7zip-win-x64.tar.gz progress=100%
+  • signing with signtool.exe  path=D:\a\ergus\ergus\release\win-unpacked\resources\elevate.exe
+  • downloaded      label=nsis-resources-3.4.1.7z progress=100%
+  • signing with signtool.exe  path=D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.__uninstaller.exe
+  • signing with signtool.exe  path=D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.exe
+  • building block map  blockMapFile=D:\a\ergus\ergus\release\Ergus-0.1.5-installeur.exe.blockmap
+  • publishing      publisher=Github (owner: syrwx, project: ergus-releases, version: 0.1.5)
+  • publishing      publisher=Github (owner: syrwx, project: ergus-releases, version: 0.1.5)
+  • uploading       file=Ergus-0.1.5-installeur.exe.blockmap provider=github
+  • uploading       file=Ergus-0.1.5-installeur.exe provider=github
+  • creating GitHub release  reason=release doesn't exist tag=v0.1.5 version=0.1.5
+  • creating GitHub release  reason=release doesn't exist tag=v0.1.5 version=0.1.5
+  ⨯ 422 Unprocessable Entity
+"method: post url: https://api.github.com/repos/syrwx/ergus-releases/releases\n\n          Data:\n          {\n  \"message\": \"Validation Failed\",\n  \"errors\": [\n    {\n      \"resource\": \"Release\",\n      \"code\": \"custom\",\n      \"message\": \"Published releases must have a valid tag\"\n    }\n  ],\n  \"documentation_url\": \"https://docs.github.com/rest/releases/releases#create-a-release\",\n  \"status\": \"422\"\n}\n          "
+Headers: {
+  "date": "Sat, 29 Aug 2026 14:44:16 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "235",
+  "x-github-media-type": "github.v3; format=json",
+  "x-accepted-github-permissions": "contents=write; contents=write,workflows=write",
+  "x-github-api-version-selected": "2022-11-28",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning",
+  "access-control-allow-origin": "*",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "content-security-policy": "default-src 'none'",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "server": "github.com",
+  "x-ratelimit-limit": "5000",
+  "x-ratelimit-remaining": "4969",
+  "x-ratelimit-reset": "1788015117",
+  "x-ratelimit-used": "31",
+  "x-ratelimit-resource": "core",
+  "x-github-request-id": "A411:15D705:3EC8BA:5FFB9C:6A92F040",
+  "x-github-edge-region": "westus2"
+}  failedTask=build stackTrace=HttpError: 422 Unprocessable Entity
+"method: post url: https://api.github.com/repos/syrwx/ergus-releases/releases\n\n          Data:\n          {\n  \"message\": \"Validation Failed\",\n  \"errors\": [\n    {\n      \"resource\": \"Release\",\n      \"code\": \"custom\",\n      \"message\": \"Published releases must have a valid tag\"\n    }\n  ],\n  \"documentation_url\": \"https://docs.github.com/rest/releases/releases#create-a-release\",\n  \"status\": \"422\"\n}\n          "
+Headers: {
+  "date": "Sat, 29 Aug 2026 14:44:16 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "235",
+  "x-github-media-type": "github.v3; format=json",
+  "x-accepted-github-permissions": "contents=write; contents=write,workflows=write",
+  "x-github-api-version-selected": "2022-11-28",
+  "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning",
+  "access-control-allow-origin": "*",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+  "content-security-policy": "default-src 'none'",
+  "vary": "Accept-Encoding, Accept, X-Requested-With",
+  "server": "github.com",
+  "x-ratelimit-limit": "5000",
+  "x-ratelimit-remaining": "4969",
+  "x-ratelimit-reset": "1788015117",
+  "x-ratelimit-used": "31",
+  "x-ratelimit-resource": "core",
+  "x-github-request-id": "A411:15D705:3EC8BA:5FFB9C:6A92F040",
+  "x-github-edge-region": "westus2"
+}
+    at createHttpError (D:\a\ergus\ergus\node_modules\builder-util-runtime\src\httpExecutor.ts:66:10)
+    at IncomingMessage.<anonymous> (D:\a\ergus\ergus\node_modules\builder-util-runtime\src\httpExecutor.ts:241:13)
+    at IncomingMessage.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+===== electron-builder.log.err =====
+
+===== moteur-out.txt =====
+
+===== moteur-err.txt =====
+INFO:     Started server process [8624]
+INFO:     Waiting for application startup.
+2026-08-29 14:42:00,492  INFO    moteur 0.1.0 pr�t � d�tecteur : OpenCV HOG + SVM (personnes) | posture : absent | r�identification : absent
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8756 (Press CTRL+C to quit)
